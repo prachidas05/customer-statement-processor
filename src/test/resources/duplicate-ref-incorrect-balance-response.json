@@ -1,0 +1,16 @@
+{
+  "result" : "DUPLICATE_REFERENCE_INCORRECT_END_BALANCE",
+  "errorRecords" : [{
+    "reference" : "1288",
+    "accountNumber" : "NL37ABNA08976543"
+  },
+    {
+      "reference" : "1267",
+      "accountNumber" : "NL37ABNA08976743"
+    },
+    {
+      "reference" : "1245",
+      "accountNumber" : "NL37ABNA08976654"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "result" : "DUPLICATE_REFERENCE",
+  "errorRecords" : [{
+    "reference" : "1288",
+    "accountNumber" : "NL37ABNA08976543"
+  }
+  ]
+}
